@@ -33,6 +33,7 @@ public class Test
 
     public static void main(String[] args)
     {
+        System.out.println("start");
         int length = 1000000000;
         int[] a = new int[length];
         for (int i = 0; i < length; i++)
